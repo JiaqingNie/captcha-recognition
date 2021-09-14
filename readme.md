@@ -14,7 +14,7 @@ Firstly, I converted RGB images into grey images and then transferred them into 
 
 ## CNN Model
 
-![cnn](/Users/nickit/image/cnn.jpg)
+![cnn](https://raw.githubusercontent.com/JiaqingNie/image/main/cnn.jpg)
 
 ## Evaluation
 
